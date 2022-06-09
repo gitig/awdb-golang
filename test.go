@@ -1,10 +1,11 @@
 package main
 
 import (
-	"./awdb-golang"
 	"fmt"
 	"log"
 	"net"
+
+	"github.com/gitig/awdb-golang/awdb"
 )
 
 func main() {
